@@ -1,5 +1,5 @@
 AI-Powered Tutor using LLMs and RAG
-This project is an open-source AI tutor that helps students learn by generating personalized exercises, questions, and explanations. It uses Large Language Models (LLMs) and a technique called Retrieval-Augmented Generation (RAG) to provide accurate and context-aware educational content — all without the need for any paid APIs.
+This project is an open-source AI tutor that helps students learn by generating personalized exercises, questions, and explanations. It uses Large Language Models (LLMs) and a technique called Retrieval-Augmented Generation (RAG) to provide accurate and context-aware educational content, all without the need for any paid APIs.
 
 What It Does
 The system takes PDF files — such as textbooks, lecture notes, or research papers and:
@@ -28,4 +28,4 @@ Summarizing research papers
 Helping students revise notes
 Supporting personalized learning at scale
 
-This AI tutor makes smart study support accessible, customizable, and cost-free — powered entirely by open-source tools and your own learning materials.
+This AI tutor makes smart study support accessible, customizable, and cost-free powered entirely by open-source tools and your own learning materials.
